@@ -1,1 +1,0 @@
-var programa = 0
